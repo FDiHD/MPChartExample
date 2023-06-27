@@ -69,6 +69,7 @@ public class BarChartActivity extends DemoBase implements OnSeekBarChangeListene
         setTitle("BarChartActivity");
         setTitle("BarChartActivity");
         setTitle("BarChartActivity");
+        setTitle("BarChartActivity");
         tvX = findViewById(R.id.tvXMax);
         tvY = findViewById(R.id.tvYMax);
 
